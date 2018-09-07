@@ -2,6 +2,7 @@
 ***
 Utiliza:
 * Container Ubuntu 16.04 como base
+* Docker Compose
 * Postgresql 10
 * Postgis 2.4
 
